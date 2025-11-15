@@ -1,4 +1,4 @@
-# Google-Play-Store-Apps-Insights-
+# Google-Play-Store-Apps-Insights
 # 📊 App Store Insights Dashboard — Power BI Project
 
 A complete end-to-end Power BI analysis project built using the Google Play Store App Dataset.
